@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://bosear-test.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">603804121877</string>
+  <string name="google_storage_bucket" translatable="false">bosear-test.appspot.com</string>
+  <string name="project_id" translatable="false">bosear-test</string>
+  <string name="google_api_key" translatable="false">AIzaSyB17cwDgecoWICnh0qxFs861PhZUvIYJsQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB17cwDgecoWICnh0qxFs861PhZUvIYJsQ</string>
+  <string name="google_app_id" translatable="false">1:603804121877:android:07e088a079c8ef170ac71c</string>
+  <string name="default_web_client_id" translatable="false">603804121877-kaqmfhi598f8suadnfbk96afq1qugn7l.apps.googleusercontent.com</string>
+</resources>

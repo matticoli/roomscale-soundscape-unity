@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603804121877",
+    "firebase_url": "https://bosear-test.firebaseio.com",
+    "project_id": "bosear-test",
+    "storage_bucket": "bosear-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603804121877:android:07e088a079c8ef170ac71c",
+        "android_client_info": {
+          "package_name": "io.github.matticoli.BoseAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603804121877-kaqmfhi598f8suadnfbk96afq1qugn7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17cwDgecoWICnh0qxFs861PhZUvIYJsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603804121877-kaqmfhi598f8suadnfbk96afq1qugn7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
